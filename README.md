@@ -1,1 +1,1 @@
-file to be uploaded (display character and block all devices)
+file  uploaded (6. display character and block all devices,21-24)
